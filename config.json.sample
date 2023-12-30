@@ -1,0 +1,6 @@
+{
+  "amount": 5,
+  "outputFile": "output.txt",
+  "tokenSaverCapacity": 100,
+  "partnerUserId": "12345"
+}
